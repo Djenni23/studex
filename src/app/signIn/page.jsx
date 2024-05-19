@@ -23,7 +23,7 @@ function SignIn() {
         '>Login</button>
 
         <p>
-            Don't you have an account ? <Link className='font-bold text-[#4a3c5f] ' href={"/signUp"}>Sign up</Link>
+            {`Don't`} you have an account ? <Link className='font-bold text-[#4a3c5f] ' href={"/signUp"}>Sign up</Link>
         </p>
     </form>
     </div>
